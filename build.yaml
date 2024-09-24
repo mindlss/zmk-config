@@ -20,6 +20,3 @@
 include:
   - board: nice_nano
     shield: zmk_uno
-include:
-  - board: nice_nano
-    shield: zmk_uno
